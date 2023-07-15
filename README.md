@@ -7,7 +7,7 @@ In today's fast-paced and demanding world, maintaining good mental health is cru
 
 - **Objective:** The objective of the Mental Fitness Tracker is to leverage machine learning algorithms to provide individuals with accurate and personalized insights into their mental well-being. It aims to analyze diverse data types, identify patterns, and generate actionable recommendations for proactive mental health management. 
 
-The project based on:
+The project is based on:
 
 - Data-Driven Approach: ML algorithms process large amounts of data to identify meaningful patterns and correlations. This data-driven approach enhances the accuracy and reliability of the insights and recommendations provided by the tracker.
 
